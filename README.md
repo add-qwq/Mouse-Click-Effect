@@ -2,6 +2,9 @@
 # Mouse-Click-Effect  
 
 ## Introduction  
+**[Online demonstration(click to access)]((https://www.rockaz.top/GitHub-Project-Demo/Mouse-Click-Effect/))**
+*But the website server is located in China*
+
 This is an interactive web click effect library that generates dynamic text and animated balls when users click on the page. The effects include color-changing elements, smooth animations, and automatic cleanup, creating a playful and visually appealing user interaction.  
 
 ## Features  
@@ -36,6 +39,8 @@ Adjust the following parameters in `click.js` to customize the effects:
 # 鼠标点击效果 
 
 ## 简介  
+**[在线演示（点击访问）](https://www.rockaz.top/GitHub-Project-Demo/Popup-Component)**
+
 这是一个网页交互式点击效果库，当用户点击页面时，会在点击位置生成动态文字和小球动画。效果包含颜色变化、流畅动画和自动清理功能，为用户交互增添趣味与视觉吸引力。  
 
 ## 功能特性  
