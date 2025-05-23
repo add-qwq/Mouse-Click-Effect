@@ -2,7 +2,7 @@
 # Mouse-Click-Effect  
 
 ## Introduction  
-**[Online demonstration(click to access)]((https://www.rockaz.top/GitHub-Project-Demo/Mouse-Click-Effect/))**
+**[Online demonstration(click to access)](https://www.rockaz.top/GitHub-Project-Demo/Mouse-Click-Effect/)**
 *But the website server is located in China*
 
 This is an interactive web click effect library that generates dynamic text and animated balls when users click on the page. The effects include color-changing elements, smooth animations, and automatic cleanup, creating a playful and visually appealing user interaction.  
